@@ -1,1 +1,2 @@
 Linha 1 - Added na main branch
+Linha 2 - Added na b_paralela
